@@ -6,10 +6,10 @@ Our primary objective is to enhance the management of agricultural wastewater by
 
 
 ## Project developers:
-- Diego Renato Canovas
-- Isabelle Soares
-- Roshini Selvakumar
-- Xinyu Tang
-- Anna Falceto Piñol
+- Diego Renato Canovas (renato.canova.1196@gmail.com)
+- Isabelle Soares (i.gomessoares1@ied.edu)
+- Roshini Selvakumar (r.selvakumar@ied.edu)
+- Xinyu Tang (txy604929345@gmail.com)
+- Anna Falceto Piñol (annafalpi@gmail.com)
 
 <img src="pharmers.png" alt="Pharmer Project" width="300"/>
