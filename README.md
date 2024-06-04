@@ -2,8 +2,7 @@
 
 Pharmer is a project developed in the CBI for the AI Course provided by Atract Academy, ESADE, IED (European Design Institute), and UPC (Universitat Politècnica de Catalunya) during the spring term of 2024.
 
-Our primary objective is to enhance the management of agricultural wastewater by detecting and extracting phosphorus. This phosphorus is then returned to farmers as fertilizer, establishing a circular system. This method addresses water pollution while creating economic value. We collect and analyze data throughout the process to predict and manage phosphorus pollution. Located in Torre de Segre, Spain, the project requires an initial investment of 1 million euros and aims to prevent ecological damage worth 1 million euros annually. It is projected to become profitable within five years, fostering environmental health and supporting local agriculture.
-
+Our innovative project addresses the critical issue of agricultural wastewater treatment by focusing on phosphorus extraction and recycling. Through advanced detection techniques combined with the ATTRACT technologies, we capture phosphorus from wastewater and transform it into valuable fertilizer for local farmers. This circular approach not only mitigates water pollution but also fosters economic benefits, creating a sustainable agricultural ecosystem. By monitoring and analyzing data throughout the process, we enhance our ability to predict and manage phosphorus pollution effectively. This initiative not only champions environmental health but also bolsters the agricultural productivity of the region.
 
 ## Project developers:
 - Diego Renato Canovas (renato.canova.1196@gmail.com)
